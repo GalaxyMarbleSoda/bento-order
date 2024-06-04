@@ -123,7 +123,7 @@
 
             const getAllOrders = () => {
                 $.ajax({
-                    url: './test.json',
+                    url: 'http://10.100.53.50:8081/orders/get',
                     type: 'GET',
                     success: function (response) {
                         // console.log(response);
