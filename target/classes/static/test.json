@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "customerName": "CXX",
+        "orderItems": [
+            "各式雙拼飯-110"
+        ],
+        "totalAmount": 110,
+        "remark": "烤鴨+燒肉，飯少",
+        "ip": null,
+        "timeStamp": "2024-05-29T02:45:36.000+00:00"
+    },
+    {
+        "id": 2,
+        "customerName": "段XX",
+        "orderItems": [
+            "烤鵝腿飯-180"
+        ],
+        "totalAmount": 180,
+        "remark": "外帶仙草茶",
+        "ip": null,
+        "timeStamp": "2024-05-29T02:48:00.000+00:00"
+    },
+    {
+        "id": 3,
+        "customerName": "游XX",
+        "orderItems": [
+            "各式雙拼飯-110"
+        ],
+        "totalAmount": 110,
+        "remark": "叉燒拚燒肉,加蔥油",
+        "ip": null,
+        "timeStamp": "2024-05-29T02:49:14.000+00:00"
+    },
+    {
+        "id": 4,
+        "customerName": "王XX",
+        "orderItems": [
+            "招牌烤鵝飯-150"
+        ],
+        "totalAmount": 150,
+        "remark": "沒吃過試一下~感謝Chris~",
+        "ip": null,
+        "timeStamp": "2024-05-29T02:50:13.000+00:00"
+    },
+    {
+        "id": 5,
+        "customerName": "李XX",
+        "orderItems": [
+            "廣炒麵-180"
+        ],
+        "totalAmount": 180,
+        "remark": "",
+        "ip": null,
+        "timeStamp": "2024-05-29T02:50:41.000+00:00"
+    },
+    {
+        "id": 6,
+        "customerName": "林XX",
+        "orderItems": [
+            "蜜汁叉燒飯-100"
+        ],
+        "totalAmount": 100,
+        "remark": "",
+        "ip": null,
+        "timeStamp": "2024-05-29T02:50:58.000+00:00"
+    },
+    {
+        "id": 7,
+        "customerName": "蕭XX",
+        "orderItems": [
+            "各式雙拼飯-110"
+        ],
+        "totalAmount": 110,
+        "remark": "叉燒+燒肉，外帶仙草蜜",
+        "ip": null,
+        "timeStamp": "2024-05-29T02:52:42.000+00:00"
+    },
+    {
+        "id": 8,
+        "customerName": "羅XX",
+        "orderItems": [
+            "招牌烤鵝飯-150"
+        ],
+        "totalAmount": 150,
+        "remark": "",
+        "ip": null,
+        "timeStamp": "2024-05-29T02:58:53.000+00:00"
+    },
+    {
+        "id": 9,
+        "customerName": "豬腳",
+        "orderItems": [
+            "綜合三寶飯-120"
+        ],
+        "totalAmount": 120,
+        "remark": "油蔥多多～醬油多多～",
+        "ip": null,
+        "timeStamp": "2024-05-29T03:09:35.000+00:00"
+    },
+    {
+        "id": 10,
+        "customerName": "高XX",
+        "orderItems": [
+            "各式雙拼飯-110"
+        ],
+        "totalAmount": 110,
+        "remark": "雞+鴨 不要小黃瓜",
+        "ip": null,
+        "timeStamp": "2024-05-29T03:35:46.000+00:00"
+    }
+]
